@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlMuchlis/static/css/main.8f728be8.css",
+    "main.js": "/AlMuchlis/static/js/main.4c9d5e3a.js",
+    "static/js/453.3c4e3a1d.chunk.js": "/AlMuchlis/static/js/453.3c4e3a1d.chunk.js",
+    "static/media/rectangle-10@2x.png": "/AlMuchlis/static/media/rectangle-10@2x.56aeeb380af20c7abbd1.png",
+    "index.html": "/AlMuchlis/index.html",
+    "main.8f728be8.css.map": "/AlMuchlis/static/css/main.8f728be8.css.map",
+    "main.4c9d5e3a.js.map": "/AlMuchlis/static/js/main.4c9d5e3a.js.map",
+    "453.3c4e3a1d.chunk.js.map": "/AlMuchlis/static/js/453.3c4e3a1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f728be8.css",
+    "static/js/main.4c9d5e3a.js"
+  ]
+}
